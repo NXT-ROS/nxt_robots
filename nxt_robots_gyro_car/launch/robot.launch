@@ -7,9 +7,9 @@
   </node>
 
   <node pkg="nxt_ros" type="nxt_ros.py" name="nxt_ros" output="screen" respawn="true">
-    <rosparam command="load" file="$(find nxt_robots_gyro_car)/config/robot.yaml" />    
+    <rosparam command="load" file="$(find nxt_robots_gyro_car)/config/robot.yaml" />
     <!--param name="host" value="00:16:53:0D:29:63"/-->
-  </node>	 
+  </node>
 
   <group ns="base_parameters">
     <param name="r_wheel_joint" value="r_wheel_joint"/>
