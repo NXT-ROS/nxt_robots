@@ -1,8 +1,11 @@
 
-<div style="text-align:center">
+<h1 align="center">
+<br>
 <img src ="https://avatars0.githubusercontent.com/u/32429642?v=4&s=100" />
-<h1>NXT ROS - Robots
-</div>
+<br>
+NXT ROS - Robots
+<br>
+</h1>
 
 This repository contains all you need to get started with NXT ROS. You will find here a demo robot, including the building instructions and URDF model for visualization.
 
