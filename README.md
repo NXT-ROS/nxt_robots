@@ -11,7 +11,7 @@ This repository contains all you need to get started with NXT ROS. You will find
 
 ## Installation
 
-The repository is expected to be placed inside the source folder of a working catkin environnement.
+The repository is expected to be used as the source folder of a working catkin environnement.
 
 ```
 mkdir nxt_robots
